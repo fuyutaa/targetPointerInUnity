@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 // Your arrow sprite must be pointing right.
-// Mudt be child of the player.
+// Must be child of the player.
 public class targetIndicator : MonoBehaviour
 {
     public Transform target;
